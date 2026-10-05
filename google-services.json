@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "442339475975",
+    "project_id": "loan-management-app-12cf2",
+    "storage_bucket": "loan-management-app-12cf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442339475975:android:6531c7cec79d1854e260a2",
+        "android_client_info": {
+          "package_name": "com.mahakaushal.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1efR37T46o73JyY5Brn6eIQVTE2Jlysg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
